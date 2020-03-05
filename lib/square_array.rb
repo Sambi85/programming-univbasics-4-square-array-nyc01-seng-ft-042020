@@ -8,7 +8,6 @@ def square_array(numbers)
           i += 1
   end
 sum
-
-end
+  end
 
 
